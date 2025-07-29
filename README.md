@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, these are some coding projects I've been working on recently to develop my coding skillset and improve my understanding of finance and financial markets.
 <!--
 **joabisaac/joabisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
