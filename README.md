@@ -1,4 +1,4 @@
-## Hi, these are some coding projects I've been working on recently to develop my coding skillset and improve my understanding of finance and financial markets.
+## Hi, these are some coding projects I've been working on recently to develop my coding skillset and improve my understanding of finance and financial markets. I'm currently a 3rd year Mech Eng student at Imperial College London, averaging a 2:1 on my degree and I'm looking for summer internships in finance, data analysis and quantitative trading. 
 <!--
 **joabisaac/joabisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
